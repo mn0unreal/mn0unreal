@@ -4,18 +4,21 @@
 <p>
 <a href="https://twitter.com/wadedy2020" target="blank">
 <img src="https://img.shields.io/twitter/follow/wadedy2020?logo=twitter&style=for-the-badge" alt="wadedy2020" /></a> 
+</p>
+<p>
+<a href="https://twitter.com/wadedy2020" target="blank">
 <img src="https://komarev.com/ghpvc/?username=mn0unreal&label=Profile%20views&color=0e75b6&style=flat" alt="mn0unreal" />
+</p>
+<h3>Connect with me:</h3>
+<p>
+<a href="https://twitter.com/wadedy2020" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wadedy2020" height="30" width="40" /></a>
 </p>
 
 - 🔭 I’m currently working freelance **Laravel**
 
 - 📫 How to reach me **wadedy2020@gmail.com**
 
-<h3>Connect with me:</h3>
-<p>
-<a href="https://twitter.com/wadedy2020" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wadedy2020" height="30" width="40" /></a>
-</p>
 
 <h3>Languages and Tools:</h3>
 <p>
